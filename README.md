@@ -6,4 +6,4 @@ Rating range:
 -1: indicates a worst rating
 1: indicates a great rating
 
-(The colors also helps for visual aid)
+(The colors also help as a visual aid)
